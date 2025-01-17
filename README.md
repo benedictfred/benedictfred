@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nebolisa Ugochukwu Benedict</h1>
-<h3 align="center">A Frontend Developer skilled in HTML, CSS, JavaScript, and React, with experience working on 5+ projects. Improved website performance by reducing load times by up to 30%, leading to better user retention. Focused on building responsive, functional web interfaces and continuously learning to deliver better results.</h3>
+<h3 align="center">Innovative web developer, Tech enthusiast and Problem solver. I am driven by curiosity and a passion for
+creating user-centric solutions, I specialize in crafting responsive web applications using React, Tailwind
+CSS, and modern frameworks like Next.js. I bring a keen eye for design and functionality, ensuring
+seamless user experiences across all devices.</h3>
 
 - 🌱 I’m currently learning **node js, express js**
 
